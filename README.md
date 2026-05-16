@@ -1,6 +1,6 @@
-## Hi, I'm Alex
+## Hi, I'm Oleksandr
 
-QA Engineer at Readdle. I work on mobile UI automation and API testing.
+QA Engineer. I work on mobile UI automation and API testing.
 
 ---
 
