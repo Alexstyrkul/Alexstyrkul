@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Alex
 
-<!--
-**Alexstyrkul/Alexstyrkul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer at Readdle. I work on mobile UI automation and API testing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+
+- Mobile: XCUITest · Swift · Xcode
+- Web & API: Cypress · TypeScript · Python · pytest
+- CI/CD: CircleCI · GitHub Actions
+
+---
+
+**Projects**
+
+| Project | Description |
+|---|---|
+| [FileManager-UITests](https://github.com/Alexstyrkul/FileManager-UITests) | XCUITest automation suite for open-source iOS FileManager app. Page Object pattern, Swift. |
+| [clickup-goal-api-tests](https://github.com/Alexstyrkul/clickup-goal-api-tests) | API + UI tests for ClickUp Goals. Cypress (TS) + Python, CircleCI pipeline. |
+| [QA Portfolio](https://github.com/Alexstyrkul/QA-Portfolio) | Full overview of my QA work — automation, API, CI/CD, bug reporting. |
+
+---
+
+📧 alexroast3@gmail.com
