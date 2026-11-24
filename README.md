@@ -24,4 +24,4 @@ QA Engineer. I work on mobile UI automation and API testing.
 
 ---
 
-📧 alexroast3@gmail.com
+📧 [oleksandrstyrkul@gmail.com](mailto:oleksandrstyrkul@gmail.com)
