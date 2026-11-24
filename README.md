@@ -2,6 +2,8 @@
 
 QA Engineer. I work on mobile UI automation and API testing.
 
+**[Website & CV](https://alexstyrkul.github.io/)** · [LinkedIn](https://www.linkedin.com/in/oleksandr-styrkul-60a214218/) · [CV (PDF)](https://alexstyrkul.github.io/cv.pdf)
+
 ---
 
 **Stack**
